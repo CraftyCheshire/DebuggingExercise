@@ -14,6 +14,8 @@
 
 # Assignment Submission
 - Create a GitHub repository with a README.md file. In the README, list all 10 secret messages along with their corresponding task numbers. Submit the link to your GitHub repository.
+
+# Day 2
 1. Pancakes
 2. Waffles
 3. French Toast
@@ -24,3 +26,15 @@
 8. Butterfly
 9. Comet
 10. Volcano
+
+# Day 3
+11. Whisper
+12. Meadow
+13. French Toast
+14. Galaxy
+15. Dinosaur
+16. Rainbow
+17. Pyramid
+18. Orbit
+19. Nebula
+20. Zenith
